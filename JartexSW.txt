@@ -232,7 +232,4 @@ chat §8
 chat §8        §c▼▼▼§8 (⌐■_■)    §c▼▼▼
 chat §8
 chat §8
-chat §cNote:§8 This config is made for
-chat §c§lMatrix ver.6.0.4-hotfix7 / Jartex / Pika
-chat §8
 chat §a§lMade by FaaatPotato - 09.04.2021
