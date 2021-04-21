@@ -69,7 +69,7 @@ Fucker Block 26
 Fucker ThroughWalls None
 Fucker Range 6.0
 Fucker Action Destroy
-Fucker Instant true
+Fucker Instant false
 Fucker SwitchDelay 0
 Fucker Swing false
 Fucker Rotations false
