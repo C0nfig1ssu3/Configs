@@ -48,18 +48,6 @@ ChestStealer AutoCloseMinDelay 50
 ChestStealer CloseOnFull false
 ChestStealer ChestTitle false
 Criticals Mode Jump
-Drop Garbage KeyBind 
-Drop Garbage Change bind false
-Drop Garbage In array false
-Drop Garbage NoAttackDelay 0
-Eat Food KeyBind 
-Eat Food Change bind false
-Eat Food In array false
-Eat Food NoAttackDelay 500
-Equip Armor KeyBind 
-Equip Armor Change bind false
-Equip Armor In array false
-Equip Armor NoAttackDelay 0
 FastUse Mode CustomDelay
 FastUse NoMove false
 FastUse CustomDelay 8
@@ -85,34 +73,6 @@ InventoryCleaner Hotbar true
 InventoryCleaner RandomSlot true
 InventoryCleaner Sort true
 InventoryCleaner ItemDelay 151
-InventoryCleaner SortSlot-1 Sword
-InventoryCleaner SortSlot-2 Bow
-InventoryCleaner SortSlot-3 Gapple
-InventoryCleaner SortSlot-4 Pearl
-InventoryCleaner SortSlot-5 Food
-InventoryCleaner SortSlot-6 Block
-InventoryCleaner SortSlot-7 Water
-InventoryCleaner SortSlot-8 Pickaxe
-InventoryCleaner SortSlot-9 Axe
-InventoryManager GameDetection true
-InventoryManager NoWindowPackets true
-InventoryManager IgnoreLootedChests true
-InventoryManager ReopenRefilledChests true
-InventoryManager InvOpen None
-InventoryManager OpenSwing None
-InventoryManager Rotations None
-InventoryManager InvDelay 0
-InventoryManager StealDelay 0
-InventoryManager EquipDelay 96
-InventoryManager StartDelay 0
-InventoryManager CloseDelay 100
-InventoryManager OpenInterval 500
-InventoryManager OpenRange 4.01
-InventoryManager OpenWallsRange 4.1
-InventoryManager RotationDuration 4
-InventoryManager HealthToHealAt 15
-InventoryManager ThrowDelay 500
-InventoryManager PlayAgainInterval 1000
 InventoryMove NoDetectable false
 InventoryMove AACAdditionPro true
 InventoryMove NoMoveClicks false
@@ -173,22 +133,8 @@ NoSlow BowForwardMultiplier 1.0
 NoSlow BowStrafeMultiplier 1.0
 NoSlow Packet false
 NoSlow Soulsand false
-Open Chests KeyBind 
-Open Chests Change bind false
-Open Chests In array false
-Open Chests NoAttackDelay 0
 PingSpoof MaxDelay 4406
 PingSpoof MinDelay 4406
-Play Again KeyBind 
-Play Again Change bind false
-Play Again In array false
-Select Tools KeyBind 
-Select Tools Change bind false
-Select Tools In array false
-Select Tools NoAttackDelay 0
-Select Weapons KeyBind 
-Select Weapons Change bind false
-Select Weapons In array false
 Sort Hotbar KeyBind 
 Sort Hotbar Change bind false
 Sort Hotbar In array false
@@ -208,10 +154,6 @@ Step Delay 250
 Teams ScoreboardTeam false
 Teams Color true
 Teams GommeSW false
-Throw Potions KeyBind 
-Throw Potions Change bind false
-Throw Potions In array false
-Throw Potions NoAttackDelay 0
 Velocity Horizontal 1.0E-7
 Velocity Vertical -1.0
 Velocity Mode Simple
