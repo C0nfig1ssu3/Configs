@@ -50,9 +50,9 @@ ChestStealer ChestTitle false
 Criticals Mode Jump
 FastUse Mode CustomDelay
 FastUse NoMove false
-FastUse CustomDelay 8
+FastUse CustomDelay 60
 FastUse CustomSpeed 1
-FastUse CustomTimer 0.5
+FastUse CustomTimer 1
 Fucker Block 26
 Fucker ThroughWalls None
 Fucker Range 6.0
@@ -76,20 +76,10 @@ InventoryCleaner ItemDelay 151
 InventoryMove NoDetectable false
 InventoryMove AACAdditionPro true
 InventoryMove NoMoveClicks false
-JartexL Mode Normal
-JartexL How to set my URL? false
-JartexManager LobbySpeed false
-JartexManager ToggleModules false
-JartexManager   false
-JartexManager ConfigSW false
-JartexManager ConfigBW false
-JartexManager   false
-JartexManager ON (Turns sum modules on) false
-JartexManager OFF (Turns sum modules off) false
 KillAura MaxCPS 12
 KillAura MinCPS 8
 KillAura HurtTime 10
-KillAura Range 3.2
+KillAura Range 3.5
 KillAura ThroughWallsRange 2.0
 KillAura RangeSprintReducement 0.0
 KillAura Priority Health
@@ -118,59 +108,34 @@ KillAura NoInvDelay 0
 KillAura LimitedMultiTargets 8
 KillAura Mark false
 KillAura FakeSharp false
-MatrixFlyz Mode MatrixBoat
-MatrixFlyz BoatY 0.98
-MatrixFlyz Boost 4.7
-MatrixFlyz UseTimer (Only for normal fly) false
 NoRotateSet Confirm true
 NoRotateSet ConfirmIllegalRotation false
 NoRotateSet NoZero true
 NoSlow BlockForwardMultiplier 1.0
 NoSlow BlockStrafeMultiplier 1.0
-NoSlow ConsumeForwardMultiplier 0.6
-NoSlow ConsumeStrafeMultiplier 0.6
+NoSlow ConsumeForwardMultiplier 0.5
+NoSlow ConsumeStrafeMultiplier 0.4
 NoSlow BowForwardMultiplier 1.0
 NoSlow BowStrafeMultiplier 1.0
 NoSlow Packet false
 NoSlow Soulsand false
-PingSpoof MaxDelay 4406
-PingSpoof MinDelay 4406
-Sort Hotbar KeyBind 
-Sort Hotbar Change bind false
-Sort Hotbar In array false
-Sort Hotbar NoAttackDelay 0
 Sprint AllDirections true
 Sprint Blindness true
 Sprint Food true
 Sprint CheckServerSide false
 Sprint CheckServerSideOnlyGround false
-Steal Items KeyBind 
-Steal Items Change bind false
-Steal Items In array false
-Steal Items NoAttackDelay 0
 Step Mode Rewinside
-Step Height 2.0
+Step Height 1.0
 Step Delay 250
 Teams ScoreboardTeam false
 Teams Color true
 Teams GommeSW false
-Velocity Horizontal 1.0E-7
-Velocity Vertical -1.0
+Velocity Horizontal 0.4
+Velocity Vertical 1
 Velocity Mode Simple
-Velocity ReverseStrength 1.0
-Velocity SmoothReverseStrength 0.02
-Velocity AACPushXZReducer 2.0
-Velocity AACPushYReducer true
-Velocity Mode2 Simple
-Velocity Horizontal2 0.0
-Velocity Vertical2 0.0
-Velocity ReverseStrength2 1.0
-Velocity SmoothReverseStrength2 0.05
-Velocity AACPushXZReducer2 2.0
-Velocity AACPushYReducer2 true
 chat §8
 chat §8
 chat §8        §c▼▼▼§8 (⌐■_■)    §c▼▼▼
 chat §8
 chat §8
-chat §a§lMade by FaaatPotato - 21.04.2021
+chat §a§lMade by FaaatPotato - 11.05.2021
