@@ -37,8 +37,8 @@ ChestAura ThroughWalls true
 ChestAura VisualSwing true
 ChestAura Chest 54
 ChestAura Rotations true
-ChestStealer MaxDelay 37
-ChestStealer MinDelay 25
+ChestStealer MaxDelay 0
+ChestStealer MinDelay 0
 ChestStealer TakeRandomized true
 ChestStealer OnlyItems false
 ChestStealer NoCompass true
@@ -79,7 +79,7 @@ InventoryMove NoMoveClicks false
 KillAura MaxCPS 12
 KillAura MinCPS 8
 KillAura HurtTime 10
-KillAura Range 3.5
+KillAura Range 3.2
 KillAura ThroughWallsRange 2.0
 KillAura RangeSprintReducement 0.0
 KillAura Priority Health
@@ -120,7 +120,7 @@ NoSlow BowForwardMultiplier 1.0
 NoSlow BowStrafeMultiplier 1.0
 NoSlow Packet false
 NoSlow Soulsand false
-Sprint AllDirections true
+Sprint AllDirections false
 Sprint Blindness true
 Sprint Food true
 Sprint CheckServerSide false
@@ -139,4 +139,4 @@ chat §8
 chat §8        §c▼▼▼§8 (⌐■_■)    §c▼▼▼
 chat §8
 chat §8
-chat §a§lMade by FaaatPotato - 11.05.2021
+chat §a§lMade by FaaatPotato - 11.07.2021
