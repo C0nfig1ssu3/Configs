@@ -76,7 +76,7 @@ InventoryCleaner ItemDelay 151
 InventoryMove NoDetectable false
 InventoryMove AACAdditionPro true
 InventoryMove NoMoveClicks false
-KillAura MaxCPS 12
+KillAura MaxCPS 14
 KillAura MinCPS 8
 KillAura HurtTime 10
 KillAura Range 3.2
@@ -119,7 +119,7 @@ NoSlow BowForwardMultiplier 1.0
 NoSlow BowStrafeMultiplier 1.0
 NoSlow Packet false
 NoSlow Soulsand false
-Sprint AllDirections true
+Sprint AllDirections false
 Sprint Blindness true
 Sprint Food true
 Sprint CheckServerSide false
@@ -138,4 +138,4 @@ chat §8
 chat §8        §c▼▼▼§8 (⌐■_■)    §c▼▼▼
 chat §8
 chat §8
-chat §a§lMade by FaaatPotato - 11.05.2021
+chat §a§lMade by FaaatPotato - 23.07.2021
